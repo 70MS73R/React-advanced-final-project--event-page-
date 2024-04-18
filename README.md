@@ -1,2 +1,3 @@
-# React advanced final project (event page)
- React advanced final project (event page)
+React Advanced final project.
+
+No language prefrences, Dutch or english are both fine.
